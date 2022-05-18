@@ -1,0 +1,8 @@
+.add-person {
+    display: flex;
+    margin: 0 auto;
+    font-size: 1.25rem;
+}
+.ml-2 {
+    margin-left: 0.75rem;
+}

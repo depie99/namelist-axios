@@ -1,0 +1,13 @@
+.list-render {
+    font-family: Roboto, serif;
+    font-size: 1.25rem;
+    list-style: none;
+    text-align: center;
+    padding: 0;
+}
+.list-render li {
+    padding: .5rem;
+}
+.list-render p {
+    margin: 0;
+}
